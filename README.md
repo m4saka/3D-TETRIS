@@ -7,3 +7,7 @@
 - Block rotation: Z, X, C
 - Speed up: Space key
 - Camera angle: Mouse cursor
+
+# Download
+Windows版はこちらからダウンロードできます
+→ https://github.com/masaka-k/3D-TETRIS/releases
