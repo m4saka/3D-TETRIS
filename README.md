@@ -1,7 +1,8 @@
 # 3D TETRIS
 3次元のテトリスゲームです
 
-ソースコード(1ファイルのみ): https://github.com/m4saka/3D-TETRIS/blob/master/sketch_3dtetris/sketch_3dtetris.pde
+ソースコード: https://github.com/m4saka/3D-TETRIS/blob/master/sketch_3dtetris/sketch_3dtetris.pde  
+(※Processing 2との互換性のためenum等は不使用)
 
 # 遊び方
 - 移動: 矢印キー
